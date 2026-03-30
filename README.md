@@ -2,6 +2,8 @@
 
 ## Instructivos para el desarrollo de los trabajos prácticos.
 
+Notas sobre WSL 2 para Windows 11. [Ir a:](##notas-sobre-WSL2) 
+
 ### Consideraciones generales
 
 Para el desarrollo de los trabajos cada alumno trabajará en forma individual con su propia computadora o utlizando las computadoras del LIR A, en caso de estar disponibles.
@@ -318,8 +320,9 @@ sudo apt install ubuntu-desktop -y
 
 ### Cómo acceder a los trabajos prácticos
 
-Ir a: https://github.com/jaouret/PDI_2025-TP1-TP2-TP3-TP4.git
+Ir a: https://github.com/jaouret/PDI_TP1-TP2-TP3-TP4.git
 
+## Notas sobre WSL2
 
 
 
